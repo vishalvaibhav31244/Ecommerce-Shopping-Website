@@ -6,3 +6,5 @@ This project is part of a course on college project.
 
 #Django E-commerce
 This is a very simple e-commerce website built with Django.
+![](https://github.com/vishalvaibhav31244/Ecommerce-Shopping-Website/blob/master/app/static/app/images/banner/b2.jpg)
+
